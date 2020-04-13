@@ -17,18 +17,18 @@
 
 .bgImg {
     position: relative;
-    background-image: url("./images/backGrImg.png");
+    background-image: url(./images/backGrImg.png);
     width: 800px;
     height: 600px;    
 }
 
 .heroImg {
     position: absolute;
-    background-image: url("./images/hero.png");
+    background-image: url(./images/hero.png);
     width: 35px;
     height: 55px;
     bottom: 0;
-    left: 50%;
+    left: 412px;
 }
 
 
